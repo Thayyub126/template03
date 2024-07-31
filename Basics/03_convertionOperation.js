@@ -24,3 +24,17 @@ let num = 33;
 let str = String(num);
 console.log(str);
 console.log(typeof str);
+
+//    operations 
+
+let str1 = "hello";
+let str2 = " world";
+
+let str3 = str1 + str2;
+
+console.log(str3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(2 + 2 + "1");
