@@ -45,6 +45,8 @@ console.log("spread operator:",allHerosnew);
 */
 
 
+
+
 //HOW TO FLAT ARRAY IN ANOTHER ARRAY
 const anotherArray = [1,2,3,[4,5],[6,7,[8,9]]];
 
